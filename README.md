@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Patodia</h1>
-<h3 align="center">A passionate Web development enthusiast always energetic to code and learn.</h3>
+<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects.</h3>
 <img align="right" alt="code" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <a href="https://twitter.com/vrunpatodiya" target="blank"><img src="https://img.shields.io/twitter/follow/vrunpatodiya?logo=twitter&style=for-the-badge" alt="vrunpatodiya" /></a> </p>
