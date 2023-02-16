@@ -4,13 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/vrunpatodiya" target="blank"><img src="https://img.shields.io/twitter/follow/vrunpatodiya?logo=twitter&style=for-the-badge" alt="vrunpatodiya" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **react, vue and python.**
+- 💬 Ask me about **react, node and python.**
 
 - 📫 How to reach me **vrun4750@gmail.com**
 
-- ⚡ Fun fact **I am 5'9"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
