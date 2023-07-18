@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Noname.io**
 
-- 🌱 I’m currently learning **shell**
+- 🌱 I’m currently learning **-**
 
 - 💬 Ask me about **react, node and python.**
 
