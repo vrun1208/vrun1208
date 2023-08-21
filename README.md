@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/vrunpatodiya" target="blank"><img src="https://img.shields.io/twitter/follow/vrunpatodiya?logo=twitter&style=for-the-badge" alt="vrunpatodiya" /></a> </p>
 
-- 🔭 I’m currently working on **Noname.io**
+- 🔭 I’m currently working on **Open source** and enhancing **ds&a** skills
 
 - 🌱 I’m currently learning **-**
 
-- 💬 Ask me about **react, node and python.**
+- 💬 Ask me about **react.js, node.js and python.**
 
 - 📫 How to reach me **vrun4750@gmail.com**
 
