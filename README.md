@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varun Patodia</h1>
 <h3 align="center">A recent graduate passionate about software development. With a strong foundation in Python, SQL, JavaScript, and web development. I'm eager to contribute to innovative projects and solve complex problems through coding. Strong problem-solving skills, quick learner, and committed to staying updated with industry trends. Seeking opportunities to grow and make an impact as a software developer.</h3>
 
+
+![Visitor Count](https://profile-counter.glitch.me/vrun1208/count.svg)
+
+
 <p align="left"> <a href="https://twitter.com/vrunpatodiya" target="blank"><img src="https://img.shields.io/twitter/follow/vrunpatodiya?logo=twitter&style=for-the-badge" alt="vrunpatodiya" /></a> </p>
 
 <img align="right" alt="gif"  width="350px" src="https://github.com/vrun1208/vrun1208/blob/main/shreeram.gif">
