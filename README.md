@@ -32,3 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrun1208&show_icons=true&locale=en&layout=compact" alt="vrun1208" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrun1208&show_icons=true&locale=en" alt="vrun1208" /></p>
+
+[![vrun1208's GitHub | Dependencies](https://stats.quine.sh/vrun1208/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vrun1208)
+[![vrun1208's GitHub | Stats](https://stats.quine.sh/vrun1208/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vrun1208)
